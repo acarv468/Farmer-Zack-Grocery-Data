@@ -21,10 +21,10 @@ client = bigquery.Client()
 
 # Table IDs
 table_ids = {
-    "foot_traffic": 'farmer-zack-dashboard.Farmer_Zack_Grocery_Data.foot_traffic',
-    "products": 'farmer-zack-dashboard.Farmer_Zack_Grocery_Data.products',
-    "stores": 'farmer-zack-dashboard.Farmer_Zack_Grocery_Data.stores',
-    "transactions": 'farmer-zack-dashboard.Farmer_Zack_Grocery_Data.transactions'
+    "foot_traffic": f'{PROJECT_ID}.{DATASET_ID}.foot_traffic',
+    "products": f'{PROJECT_ID}.{DATASET_ID}.products',
+    "stores": f'{PROJECT_ID}.{DATASET_ID}.stores',
+    "transactions": f'{PROJECT_ID}.{DATASET_ID}.transactions'
 }
 
 # Clear all tables before inserting new data

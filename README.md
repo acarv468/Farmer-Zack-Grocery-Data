@@ -21,7 +21,6 @@ The **Farmer Zack Grocery Store Case Study** project is a data pipeline and anal
 ## Requirements
 
 - Python 3.8 or higher
-- Google Cloud SDK
 - Google BigQuery Python Client Library
 - Pandas
 - dotenv
