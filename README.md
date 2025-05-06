@@ -4,7 +4,9 @@ The **Farmer Zack Sales Dashboard** project is a data pipeline and analytics cas
 
 ## Background and Design
 
-**Farmer Zack** is a reference to Detroiters Season 2 Episode 5. https://www.imdb.com/title/tt7692336/. The color design may be jarring, and an accessibility nightmare for anyone with red/green color blindness, but Farmer Zack insisted that the fit in with his edgy new rebrand.
+**Farmer Zack** is a reference to Detroiters Season 2 Episode 5. https://www.imdb.com/title/tt7692336/. The color design may be jarring, and an accessibility nightmare for anyone with red/green color blindness, but Farmer Zack insisted that the color scheme fit in with his edgy new rebrand.
+
+![farmer_zack](farmer-zack.jpeg "Farmer Zack")
 
 ## Features
 
