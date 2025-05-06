@@ -1,6 +1,8 @@
 # Farmer Zack Grocery Store Case Study
 
-The **Farmer Zack Sales Dashboard** project is a data pipeline and analytics case study designed to generate, process, and upload dummy grocery store data to Google BigQuery and visualize the data in Looker Studio. 
+The **Farmer Zack Grocery Store Case Study** project is a data pipeline and analytics case study designed to generate, process, and upload dummy grocery store data to Google BigQuery and visualize the data in Looker Studio. 
+
+**[Farmer Zack Sales Dashboard](https://lookerstudio.google.com/reporting/96b1dd92-f479-417a-97c9-e45915107d0f)**
 
 ## Background and Design
 
