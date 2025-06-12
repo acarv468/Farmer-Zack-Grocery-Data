@@ -6,7 +6,13 @@ The **Farmer Zack Grocery Store Case Study** project is a data pipeline and anal
 
 ## Background and Design
 
-**Farmer Zack** is a reference to Detroiters Season 2 Episode 5. https://www.imdb.com/title/tt7692336/. The color design may be jarring, and an accessibility nightmare for anyone with red/green color blindness, but Farmer Zack insisted that the color scheme fit in with his edgy new rebrand.
+**Farmer Zack** is a reference to Detroiters Season 2 Episode 5. https://www.imdb.com/title/tt7692336/. 
+
+The **Farmer Zack Sales Dashboard** was designed with clarity, accessibility, and actionable insights in mind. The layout prioritizes key performance indicators (KPIs) at the top, providing an at-a-glance summary of revenue, visitors, basket size, and conversion rates. Below, a series of time-based and categorical charts allow users to quickly identify trends and outliers across locations, product categories, and individual products.
+
+### Accessibility and Color Choices
+
+Instead of the traditional green and red to indicate positive and negative changes, the dashboard uses **blue** for increases and **orange** for decreases. I chose this color scheme because blue and orange are more easily distinguishable for most types of color blindness, ensuring that all users can interpret the data accurately. The use of clear icons and consistent formatting further enhances readability and user experience.
 
 ![farmer_zack](farmer-zack.jpeg "Farmer Zack")
 
