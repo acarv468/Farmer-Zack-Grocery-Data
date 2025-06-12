@@ -14,8 +14,6 @@ The **Farmer Zack Sales Dashboard** was designed with clarity, accessibility, an
 
 Instead of the traditional green and red to indicate positive and negative changes, the dashboard uses **blue** for increases and **orange** for decreases. I chose this color scheme because blue and orange are more easily distinguishable for most types of color blindness, ensuring that all users can interpret the data accurately. The use of clear icons and consistent formatting further enhances readability and user experience.
 
-![farmer_zack](farmer-zack.jpeg "Farmer Zack")
-
 ## Features
 
 - **Data Generation**: Creates realistic dummy data for stores, products, foot traffic, and transactions.
